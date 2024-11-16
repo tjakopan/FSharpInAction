@@ -5,3 +5,9 @@ riderModule.iml
 /_ReSharper.Caches/
 
 .idea
+*.DotSettings.user
+foo.txt
+log.txt
+otherfile.txt
+sample.txt
+file.txt
